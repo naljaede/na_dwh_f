@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "NAWhatsApp V13.5",
-      "code": 2009,
+      "code": 2010,
       "url": "https://t.me/NA_Whatsapp",
       "changelog": " ♨️تحديث جديد♨️ - إضافات ومميزات حصرية - - Fixed contact name not showing when typing toast - Fixed Unable to open the app on some phones - Fixed Crash in Message Scheduler - Fixed...FULL CHANGELOG ON WEBSITE"
     }
