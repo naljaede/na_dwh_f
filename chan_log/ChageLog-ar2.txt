@@ -4,7 +4,7 @@
       "version": "NAWhatsApp V13.5",
       "code": 2010,
       "url": "https://t.me/NA_Whatsapp",
-      "changelog": " \n\n⭕️ ♨️تحديث جديد\n\n♻️[تحديث] قاعد واتساب الى 2.23.13.76\n🔷[إضافة] إضافات ومميزات جديدة وحصرية"
+      "changelog": " \n⭕️🔷[إضافة] إضافات ومميزات جديدة وحصرية\n♦️[إصلاح] مشكلة التأخير في استلام وارسال الرسائل\n\n❤️[مزيد] من التحسينات\n🔷[Add] New and exclusive additions and features\n♦️[Fix] The problem of delay in receiving and sending messages\n❤️And many more efforts and improvements"
     }
   ]
 }
