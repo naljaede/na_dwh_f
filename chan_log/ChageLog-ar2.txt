@@ -1,7 +1,7 @@
 {
   "records": [
     {
-      "version": "DWHWhatsApp+ V9.75E",
+      "version": "NAWhatsApp V13.5",
       "code": 2009,
       "url": "https://t.me/NA_Whatsapp",
       "changelog": " ♨️تحديث جديد♨️ - إضافات ومميزات حصرية - - Fixed contact name not showing when typing toast - Fixed Unable to open the app on some phones - Fixed Crash in Message Scheduler - Fixed...FULL CHANGELOG ON WEBSITE"
