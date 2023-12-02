@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "NAWhatsApp V13.5",
-      "code": 2010,
+      "code": 2009,
       "url": "https://t.me/NA_Whatsapp",
       "changelog": " ●[إضافة] إضافات ومميزات جديدة وحصرية\n[إصلاح] مشكلة التأخير في استلام وارسال الرسائل\n●[مزيد] من التحسينات\n\n●[Add] New and exclusive additions and features\n●[Fix] The problem of delay in receiving and sending messages\n●And many more efforts and improvements"
     }
